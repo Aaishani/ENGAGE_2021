@@ -62,4 +62,4 @@ io.on('connection', socket => {
 
 
 
-server.listen(process.env.PORT||3030);                            // server is going to be local host and port is 3030
+server.listen(process.env.listen||3030);                            // server is going to be local host and port is 3030
