@@ -20,7 +20,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🏁 Link <a name = "link"></a>
-salty-tundra-70688.herokuapp.com/
+https://salty-tundra-70688.herokuapp.com/
 
 
 ## 🧐 About <a name = "about"></a>
@@ -41,8 +41,14 @@ A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I 
 -Mute Audio feature
 -Stop Video Feature
 
-### And coding style tests
-Explain what these tests test and why
+### Files 
+1)Index.html - front end of login page
+2)stylish.css - css file for styling of login page
+3)room.ejs - front end of video calling webpage (embedded javascript file)
+4)style.css - css file for styling of video calling page
+5)script.js - backend node.js file for implementing video calling, chat features etc.
+6)server.js - server file
+7)plan.md - planning of things to do
 
 ## 🎈 Usage <a name="usage"></a>
 Please use GOOGLE CHROME for best results
