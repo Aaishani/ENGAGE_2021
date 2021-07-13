@@ -32,7 +32,7 @@ A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I 
 -copy and paste the unique room id to another person so that they can join the video call and chat by clicking on that link
 - try out the chat and screen share features
 
-### Features
+## Features <a name="features"></a>
 -Multi-user Video Calling
 -Multi user Chat feature
 -Unique Room Id
@@ -41,7 +41,7 @@ A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I 
 -Mute Audio feature
 -Stop Video Feature
 
-### Files 
+## Files <a name="files"></a>
 1)Index.html - front end of login page
 2)stylish.css - css file for styling of login page
 3)room.ejs - front end of video calling webpage (embedded javascript file)
