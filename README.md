@@ -9,14 +9,14 @@
 </p>
 
 ## 📝 Table of Contents
+- [Link](#link)
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Features](#features)
+- [Files](#files)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🏁 Link <a name = "link"></a>
@@ -25,11 +25,12 @@ https://salty-tundra-70688.herokuapp.com/
 
 ## 🧐 About <a name = "about"></a>
 A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I have used HTML, CSS and JAVASCRIPT for the fnt end and NODE.JS and EXPRESS.JS for the back end.
+To implement the video calling minimum functionality and other features like chat, screen share etc. I have used WebRTC APIs, Socket.io and Peer.js.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
--copy and paste the link on Google Chrome
--fill in the username and room name to login
--copy and paste the unique room id to another person so that they can join the video call and chat by clicking on that link
+- copy and paste the link on Google Chrome
+- fill in the username and room name to login
+- copy and paste the unique room id to another person so that they can join the video call and chat by clicking on that link
 - try out the chat and screen share features
 
 
@@ -50,6 +51,9 @@ A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I 
 - script.js - backend node.js file for implementing video calling, chat features etc.
 - server.js - server file
 - plan.md - planning of things to do
+
+## 🚀 Deployment <a name = "deployment"></a>
+Deployed on heroku at https://salty-tundra-70688.herokuapp.com/
 
 ## 🎈 Usage <a name="usage"></a>
 Please use GOOGLE CHROME for best results
