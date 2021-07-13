@@ -2,15 +2,6 @@
 
 <h3 align="center">MICROSOFT ENGAGE 2021 - MS Clone (Video Calling Webpage)</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
 <p align="center"> Few lines describing your project.
@@ -29,6 +20,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🏁 Link <a name = "link"></a>
+salty-tundra-70688.herokuapp.com/
 
 
 ## 🧐 About <a name = "about"></a>
@@ -51,34 +43,6 @@ A video calling and chat app implemented using webRTC, Socket.io and Peer.js. I 
 
 ### And coding style tests
 Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-Use on Google Chrome
-
-## 🚀 Deployment <a name = "deployment"></a>
-Deployed on heroku
-
-## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
-
-
 
 ## 🎈 Usage <a name="usage"></a>
 Please use GOOGLE CHROME for best results
